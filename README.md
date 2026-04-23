@@ -86,5 +86,4 @@ The synthetic dataset includes 5000 student records with the following key featu
 ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
----
-Developed by **Antigravity** for Connect2Future.
+
