@@ -1,0 +1,15 @@
+pandas==2.3.3
+numpy==2.4.4
+scikit-learn==1.8.0
+xgboost==3.2.0
+imbalanced-learn==0.14.1
+shap==0.51.0
+mlflow==3.11.1
+streamlit==1.56.0
+plotly==6.7.0
+matplotlib==3.10.8
+seaborn==0.13.2
+joblib==1.5.3
+PyYAML==6.0.3
+pytest==9.0.3
+faker==40.15.0
